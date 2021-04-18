@@ -12,5 +12,5 @@ Purpose of the Code is Random Data Generation and Load for Testing
 Expected Parameters/Arguments -- Hostname, Port and Number of Records to Load 
 
 Futures --
-  Multi Threading
-  Seperation for Data Generation
+  a. Multi Threading
+  b. Seperation for Data Generation
